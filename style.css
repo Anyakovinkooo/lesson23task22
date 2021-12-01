@@ -35,6 +35,10 @@ body {
   .container {
     display: flex;
   }
+
+  .square {
+    margin: 8px;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
